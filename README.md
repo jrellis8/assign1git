@@ -1,6 +1,6 @@
 # assign1git
 Johnathan Ellis
-
+This is a change on newbranch
 First comment
 "First comment"
 -Justin Case
